@@ -1,0 +1,133 @@
+/* .loginForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  border: 3px solid grey;
+  text-align: center;
+  width: 40%;
+  background-color: #d4d6d4;
+} */
+/* .temp {
+  display: flex; */
+/* margin: ; */
+/* } */
+/* .temp1 {
+  display: flex;
+  margin-right: 2.5rem;
+  margin-left: 1rem;
+} */
+
+/* label { */
+/* float: left; */
+/* font-size: 1.3rem; */
+/* margin-top: 1.7rem; */
+/* } */
+/* .input1 {
+  height: 30px;
+  font-size: 15px;
+  width: 350px;
+} */
+/* .input12 {
+  height: 30px;
+  font-size: 15px;
+  width: 350px; */
+/* margin-left: 2rem; */
+/* } */
+/* input {
+  width: 80%;
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  margin: 0.2rem 0 0rem 1rem;
+  height: 10px;
+} */
+
+button {
+  /* padding: 0.5rem; */
+  font-size: 0.8rem;
+  border-radius: 0.3rem;
+  border: none;
+  /* margin: 0.1rem; */
+  background-color: #a8b1a8;
+  /* color: rgb(0, 0, 0); */
+  cursor: pointer;
+  font-weight: bold;
+  /* margin-bottom: 1rem; */
+}
+
+.button:hover {
+  background-color: rgb(42, 29, 99);
+  color: white;
+}
+
+.logoutBtn {
+  background-color: rgb(71, 67, 67);
+  float: right;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+.logout {
+  text-decoration: none;
+  color: aliceblue;
+}
+.logout:hover,
+.logoutBtn:hover {
+  background-color: aliceblue;
+}
+
+.blog {
+  margin-top: 30px;
+}
+.logo {
+  font-size: 30px;
+  margin-left: 20px;
+  position: relative;
+  top: 5px;
+  color: #d0d0db;
+}
+.profile {
+  font-size: 15px;
+  float: right;
+  margin: 10px 40px;
+  padding: 5px;
+  border: 3px solid grey;
+  background-color: #58c42d63;
+  cursor: pointer;
+  color: white;
+  border-radius: 3px;
+  /* margin-bottom: 1rem; */
+}
+.container {
+  background-color: #56516d;
+  height: 50px;
+}
+.logoutBtn :active,
+.logoutBtn :hover {
+  color: black;
+}
+.rowBtn {
+  background-color: #404740;
+}
+.edit {
+  margin: 5px;
+  height: 35px;
+}
+.delete {
+  margin-right: 1rem;
+  /* padding-bottom: 1rem; */
+  /* display: flex; */
+  /* padding: 0; */
+}
+/* .main {
+  display: flex;
+  width: 1300px;
+  justify-content: center;
+} */
+button {
+  color: rgb(42, 29, 99);
+  /* height: 20px; */
+}
+/* .button12 {
+  margin-top: 1rem;
+  width: 150px;
+} */

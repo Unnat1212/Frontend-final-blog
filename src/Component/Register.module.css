@@ -1,0 +1,43 @@
+.loginForm {
+  border: 2px solid black;
+  border-radius: 10px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  height: 550px;
+  width: 500px;
+  margin-left: 26rem;
+  flex-direction: column;
+  margin-top: 3rem;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: rgb(187, 183, 183) !important;
+}
+.temp {
+  margin: 0.6rem;
+  margin-left: 3rem;
+}
+.input {
+  display: block;
+  border-radius: 8px;
+  border: 1px solid grey;
+  width: 80%;
+}
+.label {
+  margin-right: 29rem;
+}
+
+.registerButton {
+  margin-left: 0.5rem;
+  width: 100px;
+  height: 35px;
+  padding-top: 5px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-left: 11rem;
+}

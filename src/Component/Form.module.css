@@ -1,0 +1,73 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 550px;
+  margin: 1.5rem auto;
+  border: 2px solid black;
+}
+/* * {
+  color: black !important;
+} */
+
+.formGroup {
+  margin-left: 1rem;
+}
+
+/* .formGroup {
+  /* margin-bottom: 0.2rem; */
+/* font-family: 10px; */
+.label {
+  display: block;
+  /* margin-bottom: 0.5rem; */
+  margin-top: 1rem;
+  font-weight: bold;
+  font-size: 15px;
+  /* font-size: 20px; */
+}
+
+.input {
+  height: 30px;
+  width: 500px;
+  margin-top: 2px;
+  margin-right: 20px;
+}
+.textarea,
+.select {
+  width: 400%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.textarea {
+  height: 100px;
+  width: 502px;
+  /* margin-left: 1rem; */
+  border: 0.1px solid black;
+}
+
+.select {
+  appearance: none;
+  background-color: #fff;
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="%23ccc"><path d="M10 13l-6-6h12l-6 6z"/></svg>');
+  background-position: right 0.5rem center;
+  background-repeat: no-repeat;
+  background-size: 1.5em;
+  padding-right: 2.5em;
+}
+
+.button {
+  background-color: rgba(0, 0, 46, 0.467);
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
+  width: 500px;
+}
+.button:hover {
+  background-color: rgba(112, 112, 168, 0.467);
+}
+.addBlogDiv {
+  text-align: center;
+  border-bottom: 2px solid black;
+  color: rgb(45, 45, 119);
+}
